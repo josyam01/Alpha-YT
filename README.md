@@ -15,7 +15,7 @@
 <br>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/AlphaEliasPY/AlphaYT">
+  <a href="https://heroku.com/deploy?template=https://github.com/josyam01/AlphaYT">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -40,7 +40,7 @@ Create a database URI with the [TUTORIAL](https://telegra.ph/Clonebot-UI-Help-05
 
 Create a `config.py` with the above variables (Refer sample_config.py)
 ```
-git clone https://github.com/AlphaEliasPY/AlphaYT
+git clone https://github.com/josyam01/AlphaYT
 cd inline-tube-mate
 virtualenv -p python3 venv
 . ./venv/bin/activate
