@@ -3,8 +3,8 @@
   "description": "Bot de descarga de YouTube. Crea tu fork ahora",
   "keywords": ["telegrama "," YouTube "," descargador "," bot "," abierto "," fuente"],
   "logo": "https://telegra.ph/YouTube-Downloader-09-27",
-  "website": "https://github.com/AlphaEliasPY/AlphaYT",
-  "repository": "https://github.com/AlphaEliasPY/AlphaYT",
+  "website": "https://github.com/josyam01/AlphaYT",
+  "repository": "https://github.com/josyam01/AlphaYT",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
