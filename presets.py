@@ -5,7 +5,7 @@ envíe cualquier imagen para configurar una miniatura personalizada permanente p
 Para eliminar la miniatura personalizada previamente guardada, seleccione en opciones. 
 Si no hay miniaturas personalizadas disponibles, el bot colocará las miniaturas predeterminadas de YouTube para los videos, buscará la instalación en línea o pegará el enlace de YouTube para comenzar a descargar
 
-𝐉𝐨𝐢𝐧 <a href='https://t.me/AndroidCave'>𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a> | 𝐑𝐞𝐩𝐨 <a href='https://github.com/AlphaEliasPY/AlphaYT'>𝐋𝐈𝐍𝐊</a>   
+𝐉𝐨𝐢𝐧 <a href='https://t.me/Josyam01'>𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a> | 𝐑𝐞𝐩𝐨 <a href='https://github.com/josyam01/AlphaYT'>𝐋𝐈𝐍𝐊</a>   
     """
     WELCOME_MSG = "Hola ... {} \nPuedo descargar videos de YouTube. \nBuscar en línea: seleccionar y descarga."
     OPTIONS_TXT = "Puedo descargar videos de YouTube. \nBuscar en línea: seleccionar y descargar."
