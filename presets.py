@@ -56,7 +56,7 @@ Si no hay miniaturas personalizadas disponibles, el bot colocará las miniaturas
     """
     SET_CUSTOM_USERNAME_PASSWORD = """Si desea descargar videos premium, proporcione en el siguiente formato:
 URL | nuevo nombre de archivo | nombre de usuario | contraseña"""
-    CUSTOM_CAPTION_UL_FILE = "\xad \xad\n<code>{}</code>\n\n<b>Creditos- </b><b><a href='https://t.me/AndroidCave'>@AlphaElias</a></b>"
+    CUSTOM_CAPTION_UL_FILE = "\xad \xad\n<code>{}</code>\n\n<b>Creditos- </b><b><a href='https://t.me/Josyam01'>@Josyam01</a></b>"
     RCHD_TG_API_LIMIT = "Tamaño de archivo detectado: {}\nPerdón. Pero no puedo subir archivos " \
                         "más de 1,95 GB debido a las limitaciones de la API de Telegram."
     AD_STRING_TO_REPLACE = "Informe este problema en https://yt-dl.org/bug. Asegúrate de estar usando el " \
